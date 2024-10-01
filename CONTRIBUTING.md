@@ -13,6 +13,9 @@ Welcome to our project! We appreciate your interest and contributions. Please re
 
 ## Getting Started 🤩🤗
 
+
+### Using CommandLine 
+
  If you are looking to make your Open source first contribution for Hacktoberfest , follow the steps below.
 
 #### If you don't have git install on your machine,
@@ -101,13 +104,55 @@ For example:
 git switch -c add-project1
 ```
 
-## Make necessary changes and commit those changes
+## Make necessary changes and commit those changes 
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open `Contributors_Website\contributors\contributorslist.js` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+
+- [Follow the the steps in Conributors.md](https://github.com/yaswanthteja/BeginnerOpenSource-Hacktoberfest/blob/main/Contributors.md)
+
+## How to add Contributors??
+
+
+- First Open the [file](https://github.com/yaswanthteja/BeginnerOpenSource-Hacktoberfest/blob/main/Contributors_Website/contributors/contributorsList.js)
+
+
+
+
+<img align="Center" width="400" src="image/Contributors/1727791025228.png" alt="Add contributor details" />
+
+
+
+- Now copy the Following code and add the following details.
+- Just follow the id number and Paste  below  as shown 
+
+```
+  {
+    id: number,                            //add continuos numbers ex 1,2,3...
+    fullname: "Enter your name ",          //add your full name
+    username: "Your github link",          //add your github link
+  },
+```
+
+example:- suppose already we have 11 members entered their details next id number should be 12 and so on
+
+```
+{
+    id: 12,                            //add continuos numbers
+    fullname: "Pavan ",          //add your full name
+    username: "https://github.com/use",          //add your github link
+  },
+
+```
+
+
+
+
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
+
+
 
 Add those changes to the branch you just created using the `git add` command:
 

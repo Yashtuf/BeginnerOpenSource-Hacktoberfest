@@ -1,13 +1,25 @@
 
-
-
-
-# Submit your PR on this new repo [Hacktoberfest](https://github.com/yaswanthteja/BeginnerOpenSource-Hacktoberfest). We are merging all PRs there.
-
+## 
 
 **This is a beginner-friendly project to help you get started with your [Hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't know where to start, feel free to watch the videos linked below and read the contribution rules. Happy Learning <3 💙 !!**
 
 P.S. Star ⭐ and share this repository if you had fun!! 😍
+
+
+
+
+### If you are new to here !! Doesn't know what to do??,where to start ??, just follow the steps to complete your Opensource Contributions for hacktoberfest.
+
+
+## Register to Hacktoberfest
+
+- 1. [GitHub](https://github.com/)
+- 2. [Hacktoberfest Link](https://hacktoberfest.com/) 
+- 3. click on above hacktoberfest link and  start hacking and signup using Github , Now you have succcessfull register for the hacktoberfest.
+- 4. Now we have do 4 pull/merge  requests to complete this hacktoberfest. 
+- 5. Inorder to complete this Submit your PR on this new repo [Hacktoberfest](https://github.com/yaswanthteja/BeginnerOpenSource-Hacktoberfest). We are merging all PRs there.
+- 6. Just follow the 
+
 
 
 # 📌 Videos 📽️:
