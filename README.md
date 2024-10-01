@@ -2,6 +2,13 @@
 
 P.S. Star ⭐ and share this repository if you had fun!! 😍
 
+
+![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/yaswanthteja?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/yaswanthteja)
+
+
 ### If you are new to here !! Doesn't know what to do??,where to start ??, just follow the steps to complete your Opensource Contributions for hacktoberfest.
 
 
@@ -10,16 +17,31 @@ A month-long celebration from October 1st - 31st sponsored by Digital Ocean and 
 
 ## Register to Hacktoberfest
 
-- 1. [GitHub](https://github.com/)
+- 1. [GitHub](https://github.com/) you need to have github account just create one . 
 - 2. [Hacktoberfest Link](https://hacktoberfest.com/)
-- 3. click on above hacktoberfest link and  start hacking and signup using Github , Now you have succcessfull register for the hacktoberfest.
+- 3. click on above hacktoberfest link and click on start hacking and signup using Github , Now you have succcessfull register for the hacktoberfest.
 - 4. Now we have do 4 pull/merge  requests to complete this hacktoberfest.
 - 5. Inorder to complete this Submit your PR on this new repo [Hacktoberfest](https://github.com/yaswanthteja/BeginnerOpenSource-Hacktoberfest). We are merging all PRs there.
-- 6. Just follow the
+- 6. Just follow these steps to complete the 4 pull requests.
+
+### How will we complete this 4 pull requests??
+
+1. You need to create a contributor details for this you will complete 1 pull request.
+   
+   - Through github website(GUI) you can find it  here [tutorial](https://github.com/yaswanthteja/BeginnerOpenSource-Hacktoberfest/blob/main/Contributors.md)
+   - Through command line CLI process you can find it here [tutorial](https://github.com/yaswanthteja/BeginnerOpenSource-Hacktoberfest/blob/main/CONTRIBUTING.md)
+
+2. you will need to add 3 programms of any language of your choice seperately on the programs folder with individual pull request.
+
+example :- I've one python program  calculator.py.Just i need to add that program to Programs/python folder. And sends a pull request, in the same process  we can do 2 other programs.
+
+By this way we can complete all 4 pull requests.
+
+
 
 # 📌 Videos 📽️:
 
-- [Hacktoberfest Intro](https://www.youtube.com/watch?v=mq_FIHdxmIk)
+- [Hacktoberfest Intro](https://www.youtube.com/watch?v=jZtECuvNRiw&list=RDQMh_is_0WF2gI&start_radio=1)
 - [How to pull request [Overview]](https://youtu.be/DIj2q02gvKs)
 - [Merge Conflict / comment](https://youtu.be/zOx5PJTY8CI)
 
@@ -34,7 +56,49 @@ A month-long celebration from October 1st - 31st sponsored by Digital Ocean and 
 
 - Try to keep pull requests small to minimize merge conflicts
 
-## Getting Started 🤩🤗:
+
+
+### 🗃️Project Structuer
+```
+
+BegineerOpenSource-Hacktoberfest
+   |
+   |--Contributors_Website
+      |--contributors
+           |-contributorsList.js
+   |--css
+       |--animation.css
+       |--contributors.css
+       |--footer.css
+       |--hacktoberfest.ico
+       |--navbar.css
+       |--style.css
+   |--Scripts
+       |-- main.js
+       |--menu.js
+       |--scroll.js
+   |--index.html
+   |--image
+       |--CONTRIBUTING
+       |--Contributors
+   |--.gitignore
+   |--CODE_OF_CONDUCT.md
+   |--CONTRIBUTING.md
+   |--Contributors.md
+   |--LICENSE
+   |--pull_request_template.md
+   |--Programs
+      |--Python
+      |--Java
+      |--C/C++
+   |--README.md
+   
+
+```
+
+
+
+## 😊 Getting Started 🤗:
 
 - ### [Requirements](https://github.com/yaswanthteja/BeginnerOpenSource-Hacktoberfest/blob/main/CONTRIBUTING.md)
 - Fork this repo (button on top)
@@ -87,7 +151,7 @@ git push origin my-new-branch
 
 <br>
 
-## Avoid Conflicts
+## 😖 Avoid Conflicts
 
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PRs may be merged while you're working on your branch/fork.
 
