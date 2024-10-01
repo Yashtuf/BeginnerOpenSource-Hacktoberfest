@@ -20,6 +20,12 @@ contributors = [
     username: "https://github.com/yaswanthteja",
   },
 
+    {
+    id: 2,
+    fullname: "Yash ",
+    username: "https://github.com/Yashtuf",
+  },
+
 
 
 
