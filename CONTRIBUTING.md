@@ -14,6 +14,50 @@ Welcome to our project! We appreciate your interest and contributions. Please re
 ## Getting Started 🤩🤗
 
 
+
+### Project Structuer
+```
+
+BegineerOpenSource-Hacktoberfest
+   |
+   |--Contributors_Website
+      |--contributors
+           |-contributorsList.js
+   |--css
+       |--animation.css
+       |--contributors.css
+       |--footer.css
+       |--hacktoberfest.ico
+       |--navbar.css
+       |--style.css
+   |--Scripts
+       |-- main.js
+       |--menu.js
+       |--scroll.js
+   |--index.html
+   |--image
+       |--CONTRIBUTING
+       |--Contributors
+   |--.gitignore
+   |--CODE_OF_CONDUCT.md
+   |--CONTRIBUTING.md
+   |--Contributors.md
+   |--LICENSE
+   |--pull_request_template.md
+   |--Programs
+      |--Python
+      |--Java
+      |--C/C++
+   |--README.md
+   
+
+
+
+
+```
+
+
+
 ### Using CommandLine 
 
  If you are looking to make your Open source first contribution for Hacktoberfest , follow the steps below.
@@ -116,6 +160,12 @@ Now open `Contributors_Website\contributors\contributorslist.js` file in a text 
 - First Open the [file](https://github.com/yaswanthteja/BeginnerOpenSource-Hacktoberfest/blob/main/Contributors_Website/contributors/contributorsList.js)
 
 
+- 1. First go to this file location
+```
+cd Contributors_Website/contributors/
+```
+
+- 2. Now open the contributorsList.js file and add your details
 
 
 <img align="Center" width="400" src="image/Contributors/1727791025228.png" alt="Add contributor details" />
@@ -150,17 +200,18 @@ example:- suppose already we have 11 members entered their details next id numbe
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
+3. Now open Your terminal or cmd 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
 
 
-Add those changes to the branch you just created using the `git add` command:
+4. Add those changes to the branch you just created using the `git add` command:
 
 ```bash
 git add Contributors.md
 ```
 
-Now commit those changes using the `git commit` command:
+5. Now commit those changes using the `git commit` command:
 
 ```bash
 git commit -m "Add your-name to Contributors list"
@@ -170,7 +221,7 @@ replacing `your-name` with your name.
 
 ## Push changes to GitHub
 
-Push your changes using the command `git push`:
+6. Push your changes using the command `git push`:
 
 ```bash
 git push -u origin your-branch-name
@@ -191,7 +242,7 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 
 ## Submit your changes for review
 
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+7. If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
@@ -201,21 +252,19 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
+
+Example: 
+
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+1. Fork the repository and create a copy to your github
 
-You could join our slack team if you need any help or have any questions. [Join slack team](https://firstcontributors.slack.com/join/shared_invite/zt-29qhyr9lt-Bi7WLbgGIFqV7aCEG_grvg#/shared-invite/email).
-
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
-
-### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
-
-
-
-
+2. Clone the repository
+```
+git clone https://github.com/yaswanthteja/BeginnerOpenSource-Hacktoberfest.git
+```
 
 
 3. **Navigate to the Project Directory:**
@@ -229,8 +278,12 @@ Now let's get you started with contributing to other projects. We've compiled a 
    ```bash
    git checkout -b my-new-branch
    ```
+   
 
 5. **Make Your Changes:**
+```
+cd contributors/
+```
    - Add your name to `contributors/contributorsList.js` and make any other contributions.
 
    ```bash

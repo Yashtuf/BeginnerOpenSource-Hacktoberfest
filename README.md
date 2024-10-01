@@ -1,26 +1,21 @@
-
-## 
-
 **This is a beginner-friendly project to help you get started with your [Hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't know where to start, feel free to watch the videos linked below and read the contribution rules. Happy Learning <3 💙 !!**
 
 P.S. Star ⭐ and share this repository if you had fun!! 😍
 
-
-
-
 ### If you are new to here !! Doesn't know what to do??,where to start ??, just follow the steps to complete your Opensource Contributions for hacktoberfest.
 
+
+### What is Hacktoberfest?
+A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
 ## Register to Hacktoberfest
 
 - 1. [GitHub](https://github.com/)
-- 2. [Hacktoberfest Link](https://hacktoberfest.com/) 
+- 2. [Hacktoberfest Link](https://hacktoberfest.com/)
 - 3. click on above hacktoberfest link and  start hacking and signup using Github , Now you have succcessfull register for the hacktoberfest.
-- 4. Now we have do 4 pull/merge  requests to complete this hacktoberfest. 
+- 4. Now we have do 4 pull/merge  requests to complete this hacktoberfest.
 - 5. Inorder to complete this Submit your PR on this new repo [Hacktoberfest](https://github.com/yaswanthteja/BeginnerOpenSource-Hacktoberfest). We are merging all PRs there.
-- 6. Just follow the 
-
-
+- 6. Just follow the
 
 # 📌 Videos 📽️:
 
@@ -34,18 +29,24 @@ P.S. Star ⭐ and share this repository if you had fun!! 😍
 - Do NOT add any build steps, e.g., npm install (we want to keep this a simple static site)
 - Do NOT remove other content.
 - Styling/code can be pretty, ugly, or stupid, big or small, as long as it works
+
 <!-- - Add your name to the contributorsList file. -->
+
 - Try to keep pull requests small to minimize merge conflicts
 
 ## Getting Started 🤩🤗:
 
-- ## [Requirements](https://github.com/yaswanthteja/BeginnerOpenSource-Hacktoberfest/blob/main/CONTRIBUTING.md)
-
-
-
-
-
+- ### [Requirements](https://github.com/yaswanthteja/BeginnerOpenSource-Hacktoberfest/blob/main/CONTRIBUTING.md)
 - Fork this repo (button on top)
+- you can complete this in two ways either cli or through gui choose according to your intrest.
+### Using through GUI or Github website 
+- If  want to do through github website  follow this [tutorial](https://github.com/yaswanthteja/BeginnerOpenSource-Hacktoberfest/blob/main/Contributors.md)
+
+
+### Using Command Line or CLI
+
+- If want to follow the CLI method just follow this [tutorial](https://github.com/yaswanthteja/BeginnerOpenSource-Hacktoberfest/blob/main/CONTRIBUTING.md)
+
 - Clone it on your local machine
 
 ```terminal
@@ -86,9 +87,9 @@ git push origin my-new-branch
 
 <br>
 
-## Avoid Conflicts {Syncing your fork}
+## Avoid Conflicts
 
-An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PRs may be merged while you're working on your branch/fork.   
+An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PRs may be merged while you're working on your branch/fork.
 
 ```terminal
 git remote add upstream https://github.com/yaswanthteja/BeginnerOpenSource-Hacktoberfest
@@ -114,8 +115,6 @@ For more information on syncing forks, [read this article from GitHub](https://h
 
 Many candidates get attracted to Hacktoberfest for the swags. After 4 successfully merged pull requests, as of 2024, you will be eligible to get a badges we can share it online.
 
-
-
 # FAQs (Frequently Asked Questions)
 
 - Who all can contribute?
@@ -131,10 +130,11 @@ Many candidates get attracted to Hacktoberfest for the swags. After 4 successful
 - What is the event for?
   - For open source community engagement and to learn how to contribute to open source.
 
-###### *We will do our best to merge as much as possible from everyone. However, time is limited, and the merge conflicts are horrible :astonished: <3*
+###### *We will do our best to merge as much as possible from everyone. However, time is limited, and the merge conflicts are horrible 😲 <3*
+
 <br>
 
-## Our Top Contributors 
+## Our Top Contributors
 
 <p align="center"><a href="https://github.com/yaswanthteja/BeginnerOpenSource-Hacktoberfest/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=yaswanthteja/BeginnerOpenSource-Hacktoberfest" max={1000} columns={100} anon={1}/>
