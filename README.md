@@ -4,7 +4,6 @@
 
 # Submit your PR on this new repo [Hacktoberfest](https://github.com/yaswanthteja/BeginnerOpenSource-Hacktoberfest). We are merging all PRs there.
 
-In this current repo, there are a lot of conflicts; we are not merging until all conflicts are resolved. Hacktoberfest.
 
 **This is a beginner-friendly project to help you get started with your [Hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't know where to start, feel free to watch the videos linked below and read the contribution rules. Happy Learning <3 💙 !!**
 
@@ -27,6 +26,12 @@ P.S. Star ⭐ and share this repository if you had fun!! 😍
 - Try to keep pull requests small to minimize merge conflicts
 
 ## Getting Started 🤩🤗:
+
+- ## [Requirements](https://github.com/yaswanthteja/BeginnerOpenSource-Hacktoberfest/blob/main/CONTRIBUTING.md)
+
+
+
+
 
 - Fork this repo (button on top)
 - Clone it on your local machine
@@ -95,7 +100,7 @@ For more information on syncing forks, [read this article from GitHub](https://h
 
 ## Swags of Hacktoberfest:
 
-Many candidates get attracted to Hacktoberfest for the swags. After 4 successfully merged pull requests, as of 2024, you will be eligible to get a Hacktoberfest T-shirt and some stickers delivered to your doorstep.
+Many candidates get attracted to Hacktoberfest for the swags. After 4 successfully merged pull requests, as of 2024, you will be eligible to get a badges we can share it online.
 
 
 
